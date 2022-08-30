@@ -9,9 +9,9 @@ geleegd en kan de user opnieuw beginnen met bestellen.
 
 ### Installeren van node js en de path aanpassen zodat node js kan runnen. Daarna run je node js in de terminal om dit aan te roepen
 
-# Om de user om input te kunnen vragen moet je eerst "npm install prompt-sync" installleren 
+### Om de user om input te kunnen vragen moet je eerst "npm install prompt-sync" installleren in de terminal
 
-# gebruik
+## gebruik
 
 Start programma (met VS code)
  door "node .\meuk2.ps1" in de terminal te runnen
